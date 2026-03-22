@@ -1,0 +1,2 @@
+# Track backup archives with Git LFS to bypass GitHub 100MB blob limit.
+mine-fd/**/*.zip filter=lfs diff=lfs merge=lfs -text
